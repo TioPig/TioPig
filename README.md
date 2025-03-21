@@ -72,8 +72,13 @@ Desarrollador de software con formación en Ingeniería en Informática y títul
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="65" height="65"/>
       <br>Angular
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65"/>
+      <br>Node.js
+    </td>
   </tr>
 </table>
+
 
 ### 🗄️ Bases de Datos & Herramientas
 
