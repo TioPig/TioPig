@@ -11,7 +11,7 @@
     <a href="https://github.com/TioPig/" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="mailto:talo.laalaa@gmail.com">
+    <a href="mailto:italo.vibrisa@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </div>
@@ -105,7 +105,7 @@ Desarrollador de software con formación en Ingeniería en Informática y títul
 ## 📫 Contáctame | <sup>*Contact Me*</sup>
 
 <div align="center">
-  <a href="mailto:talo.laalaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-talo.laalaa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:italo.vibrisa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-italo.vibrisa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
