@@ -128,6 +128,9 @@ Software developer with a background in Computer Engineering and a degree in Com
 </div>
 
 </div>
+<br>
+<br>
+<br>
 
 <div id="spanish">
 
