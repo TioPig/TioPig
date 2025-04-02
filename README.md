@@ -2,7 +2,6 @@
   
   # ✨ Italo Vicente Brignardello Salas ✨
   ### 👨‍💻 Analista Programador Computacional | 🎓 Estudiante de Ingeniería en Informática
-  ### 🤖 Especialización en Machine Learning e IA
 
   <div style="margin: 20px 0">
     <a href="https://www.linkedin.com/in/italobrignardello/" target="_blank">
