@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/main/assets/header-image.gif" alt="Header" width="100%"/>
   
   # ✨ Italo Vicente Brignardello Salas ✨
   ### 👨‍💻 Analista Programador Computacional | 🎓 Estudiante de Ingeniería en Informática
+  ### 🤖 Especialización en Machine Learning e IA
 
   <div style="margin: 20px 0">
     <a href="https://www.linkedin.com/in/italobrignardello/" target="_blank">
@@ -28,7 +28,7 @@ Desarrollador de software con formación en Ingeniería en Informática y títul
   <summary><b>🌟 Más sobre mí...</b></summary>
   <br>
   
-  - 🔭 Actualmente estudiando Ingeniería en Informática
+  - 🔭 Actualmente estudiando Ingeniería en Informática con mención en Machine Learning
   - 🌱 Aprendiendo continuamente nuevas tecnologías
   - 👯 Buscando colaborar en proyectos desafiantes
   - 💬 Pregúntame sobre desarrollo web y soporte técnico
@@ -53,10 +53,14 @@ Desarrollador de software con formación en Ingeniería en Informática y títul
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65"/>
+      <br>PHP
+    </td>
   </tr>
 </table>
 
-### 🛠️ Frameworks & Tecnologías Web
+### 🛠️ Frameworks & Tecnologías
 
 <table>
   <tr>
@@ -69,24 +73,31 @@ Desarrollador de software con formación en Ingeniería en Informática y títul
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="65" height="65"/>
-      <br>Angular
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/>
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65"/>
-      <br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65"/>
+      <br>Django
     </td>
   </tr>
 </table>
-
 
 ### 🗄️ Bases de Datos & Herramientas
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65"/>
-      <br>SQL
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65"/>
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65"/>
