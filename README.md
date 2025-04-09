@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ✨ Italo Vicente Brignardello Salas ✨
+  # ✨ Italo Brignardello S. ✨
   ### 👨‍💻 Computer Programming Analyst | 🎓 Computer Engineering Student
 
   <div style="margin: 20px 0">
